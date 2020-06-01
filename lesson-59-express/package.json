@@ -1,0 +1,22 @@
+{
+  "name": "lesson-59-express",
+  "version": "1.0.0",
+  "description": "code along udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tolidevs/njsu-59-express.git"
+  },
+  "author": "Tolani Benson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolidevs/njsu-59-express/issues"
+  },
+  "homepage": "https://github.com/tolidevs/njsu-59-express#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
