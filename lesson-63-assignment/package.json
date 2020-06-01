@@ -1,0 +1,24 @@
+{
+  "name": "lesson-63-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js",
+    "script-start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tolidevs/njsu-63.git"
+  },
+  "author": "Tolani Benson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tolidevs/njsu-63/issues"
+  },
+  "homepage": "https://github.com/tolidevs/njsu-63#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
